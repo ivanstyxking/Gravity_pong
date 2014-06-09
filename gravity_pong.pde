@@ -279,6 +279,7 @@ void bonus(float XVEL) {
   }
 }
 void menus() {
+  dots();
   strokeWeight(1);
   fill(100, 255, 0);
   textFont(title, 50);
